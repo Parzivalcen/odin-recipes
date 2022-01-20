@@ -1,7 +1,12 @@
 # odin-recipes
 
-Here we will reinforce and learn HTML basic foundations
+Here we will reinforce and learn HTML basic foundations and git do some git practice 
+
+# Website link
+[recipes](https://parzivalcen.github.io/odin-recipes/).
 
 # What have I learned?
 
-Im trying to change this readme in another pc too
+- pull repos 
+
+- 
