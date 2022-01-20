@@ -11,14 +11,66 @@ li {
 a {
   text-decoration: none;
 }
-.container {
-  padding-inline: 10rem;
+.flex {
+  display: flex;
 }
-.container h1 {
-  text-transform: capitalize;
+.container {
+  max-width: 1200px;
+  margin-inline: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.title {
   text-align: center;
+
+}
+.container h2 {
+  text-transform: capitalize;
+  text-align: left;
+  margin-left: 1rem;
 }
 .container li a {
   color: black;
   font-weight: 500;
+}
+.description {
+  background: whitesmoke;
+  display: flex;
+  max-width: 1200px;
+  margin-inline: auto;
+  
+}
+.description h1 {
+width: 100%;  
+font-size: ;
+}
+.description p {
+font-size: 1.4rem;
+margin-left: 1rem;
+}
+
+.home-img{
+  width: 200px;
+  height: auto;
+}
+.recipes{
+  
+}
+.recipes h2{
+width: 100%;
+}
+.recipe-img{
+  width: 150px;
+  height: 150px;
+}
+.info{
+  margin-left: 1rem;
+}
+.info a{
+  font-size: 1.3rem;
+  color: black;
+}
+.recipes .flex{
+  margin-top: 2rem;
 }
